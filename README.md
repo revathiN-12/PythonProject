@@ -1,1 +1,1 @@
-# PythonProject
+# PythonProject- visualizing stock
